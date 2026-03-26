@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update README with latest stats
+        run: |
+          echo "<!-- STATS_UPDATED: $(date -u +'%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
+          
+      - name: Update README with GitHub stats
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update GitHub activity"
+          MAX_LINES: 10
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "README Updater"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest stats [skip ci]"
+          git push
