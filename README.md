@@ -64,6 +64,6 @@ const manee_too = {
 ---
 
 
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maneetoo&theme=tokyonight" alt="GitHub Profile Summary" /> </div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=default&hide_border=true" /> <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=default&hide_border=true" /> <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> </picture> </div>
 
 ---
