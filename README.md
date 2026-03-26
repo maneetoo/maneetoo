@@ -1,9 +1,65 @@
-<h1 aligin="center">manee_too</h1>
+<h1 align="center">
+  ☕ manee_too
+  <br/>
+  <sub align="center">Frontend Developer & UI/UX Designer</sub>
+  <br/>
+</h1>
 
-<div aligin = "center">
- <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
- <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
- <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
- <img src="https://skillicons.dev/icons?i=roblixstudio" height="40" alt="luau logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="nextjs" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vue" height="42" alt="vue" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=lua" height="42" alt="lua" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" height="42" alt="roblox studio" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=435&lines=Experienced+Frontend+Developer;UI%2FUX+Designer;M2+Studios+Founder;Saving+Up+MANE+for+manee_too" alt="Typing SVG" />
+</div>
+
+---
+
+### About Me
+
+```typescript
+const manee_too = {
+  role: "Frontend Developer & Designer",
+  location: "Asia",
+  interests: ["Web Development", "UI/UX Design", "Drawing ICons", "Open Source Development"],
+  currently: "Creating CoffeeComponents",
+  learning: "TS",
+  funFact: "I don't like coffees ☕"
+};
+```
+
+---
+
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=default&hide_border=true" /> <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=default&hide_border=true" /> <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> </picture> </div>
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> </picture> </div>
+
 </div>
