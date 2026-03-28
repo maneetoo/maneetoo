@@ -57,6 +57,11 @@ const manee_too = {
 
 ---
 
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> </picture> </div>
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats/stats.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats/stats-light.svg">
@@ -69,6 +74,6 @@ const manee_too = {
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats/top-langs.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats/top-langs-light.svg">
   <img align="center" alt="Top Languages" src="assets/stats/top-langs-light.svg">
-</picture>>
+</picture>
 
 ---
