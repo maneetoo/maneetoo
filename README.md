@@ -62,18 +62,7 @@ const manee_too = {
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats/stats-light.svg">
-  <img align="center" alt="GitHub Stats" src="assets/stats/stats-light.svg">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/top-langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats/top-langs-light.svg">
-  <img align="center" alt="Top Languages" src="assets/stats/top-langs-light.svg">
-</picture>
+grep "START_SECTION:activity" README.md
+grep "STATS_UPDATED" README.md
 
 ---
