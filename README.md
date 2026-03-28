@@ -57,13 +57,18 @@ const manee_too = {
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats/stats-light.svg">
+  <img align="center" alt="GitHub Stats" src="assets/stats/stats-light.svg">
+</picture>
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> </picture> </div>
-</div>
+<br/>
 
----
-
-
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=default&hide_border=true" /> <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maneetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E&icon_color=F7B93E" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=default&hide_border=true" /> <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7B93E" /> </picture> </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/top-langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats/top-langs-light.svg">
+  <img align="center" alt="Top Languages" src="assets/stats/top-langs-light.svg">
+</picture>>
 
 ---
