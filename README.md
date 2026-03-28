@@ -62,7 +62,11 @@ const manee_too = {
 
 ---
 
-grep "START_SECTION:activity" README.md
-grep "STATS_UPDATED" README.md
+<!--START_SECTION:activity-->
+<!--  -->
+<!--END_SECTION:activity-->
+
+<!-- STATS_UPDATED: -->
+
 
 ---
