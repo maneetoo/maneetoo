@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Alex (aka maneetoo)
 
-- 🔭 I'm currently working on **[Slice](https://github.com/slice-luau/slice)**
+- 🔭 I'm currently working on **[Slice](https://github.com/slice-luau/slice)**, **[LibJS](https://github.com/maneetoo/lib-jsjs)**
 
 - 🌱 I'm currently learning **Rust, TypeScript**
 
